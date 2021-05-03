@@ -9,4 +9,7 @@ App simples ligar e desligar uma lampada.
 - JavaScript
 
 ## 📥 Como baixar o projeto
+
+```bash
 $ git clone https://github.com/SidneySCosta/lamp.git
+```
